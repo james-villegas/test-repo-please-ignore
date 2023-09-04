@@ -1,3 +1,3 @@
 # test-repo-please-ignore
 
-* edited
+* edited with signing
